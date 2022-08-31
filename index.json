@@ -1,0 +1,18 @@
+{
+    "users":[
+        {
+            "name":"Jhon Pillaca",
+            "email":"jhonspillaca12@gmail.com",
+            "password":"MasterEIP2022",
+            "role":"admin",
+            "image":"./../../assets/imgs/profile.png"
+        },
+        {
+            "name":"Jhon Pillaca",
+            "email":"jhonspillaca12@gmail.com",
+            "password":"MasterEIP2022",
+            "role":"user",
+            "image":"./../../assets/imgs/4.jpg"
+        }
+    ]
+}
