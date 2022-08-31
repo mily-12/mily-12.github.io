@@ -1,5 +1,5 @@
-{
-    "users":[
+[
+    
         {
             "name":"Jhon Pillaca",
             "email":"jhonspillaca12@gmail.com",
@@ -14,5 +14,5 @@
             "role":"user",
             "image":"./../../assets/imgs/4.jpg"
         }
-    ]
-}
+    
+]
